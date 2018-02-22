@@ -23,6 +23,10 @@ Notice that Skill Props will help you to beat your enemy.
 
 3.Gaming
 Control: Key W(or UpArrow), Key S(or DownArrow)
+
+![image](https://github.com/wsp50317/The-Fighters/blob/master/Picture_For_README/T4-iloveimg-resized.gif)
+
+This is the film to introduce the charactor skill.
 https://www.youtube.com/edit?o=U&video_id=QQCXDIlH3zM
 
 4.Result
@@ -42,6 +46,6 @@ Download and unzip the file,and execute .exe
 * **Hsi-Hsuan Wu** - *Game design and development* - [wsp50317](https://github.com/wsp50317)
 * **楊玟聆** - *Game development*
 * **林惠文** - *Game development*
-* **黃子瑜** - *Graphic Designe*
+* **黃子瑜** - *Graphic designe*
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
