@@ -1,6 +1,6 @@
 # Project Title
 
-The-Fighter
+The Fighters
 
 ## Introduction
 My undergraduate study project,developed by Unity2D.
