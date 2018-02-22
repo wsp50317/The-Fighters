@@ -22,6 +22,7 @@ Notice that Skill Props will help you to beat your enemy.
 ![image](https://github.com/wsp50317/The-Fighters/blob/master/Picture_For_README/character.png)
 
 3.Gaming
+
 Control: Key W(or UpArrow), Key S(or DownArrow)
 
 ![image](https://github.com/wsp50317/The-Fighters/blob/master/Picture_For_README/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
