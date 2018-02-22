@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1z0dhzRP0aJTf4q8P5jS0GIaqANXMKjIM/view?usp=shari
 The rule is that you should not drop the ball,or you will lose.
 Notice that Skill Props will help you to beat your enemy.
 
-This is the film about the charactor skill.
+There is the film about the charactor skill.
 https://youtu.be/QQCXDIlH3zM
 
 
