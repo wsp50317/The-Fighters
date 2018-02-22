@@ -12,6 +12,10 @@ https://drive.google.com/file/d/1z0dhzRP0aJTf4q8P5jS0GIaqANXMKjIM/view?usp=shari
 The rule is that you should not drop the ball,or you will lose.
 Notice that Skill Props will help you to beat your enemy.
 
+This is the film to introduce the charactor skill.
+https://youtu.be/QQCXDIlH3zM
+
+
 ## Getting Started
 1.Choose the mode(recommend for single-player)
 
@@ -26,9 +30,6 @@ Notice that Skill Props will help you to beat your enemy.
 Control: Key W(or UpArrow), Key S(or DownArrow)
 
 ![image](https://github.com/wsp50317/The-Fighters/blob/master/Picture_For_README/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
-
-This is the film to introduce the charactor skill.
-https://youtu.be/QQCXDIlH3zM
 
 4.Result
 ![image](https://github.com/wsp50317/The-Fighters/blob/master/Picture_For_README/p06.png)
