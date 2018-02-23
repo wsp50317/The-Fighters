@@ -5,7 +5,7 @@
 The Fighters,the battle game that suitable for every age.It is my undergraduate study project which developed by Unity2D.
 
 There is the game file.
-(If you are interesting in the code,mail to wsp50317@gmail.com)
+(If you are interesting in the code,please mail to wsp50317@gmail.com)
 https://drive.google.com/file/d/1z0dhzRP0aJTf4q8P5jS0GIaqANXMKjIM/view?usp=sharing
 
 The rule is that you should not drop the ball,or you will lose.
