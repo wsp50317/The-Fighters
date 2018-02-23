@@ -1,11 +1,10 @@
 # Project Title
 
-The Fighters
+![image](https://github.com/wsp50317/The-Fighters/blob/master/Picture_For_README/LOGO.png)
 
-## Introduction
-My undergraduate study project,developed by Unity2D.
+The Fighters,the battle game that suitable for every age.It is my undergraduate study project which developed by Unity2D.
 
-This is the game file.
+There is the game file.
 (If you are interesting in the code,mail to wsp50317@gmail.com)
 https://drive.google.com/file/d/1z0dhzRP0aJTf4q8P5jS0GIaqANXMKjIM/view?usp=sharing
 
@@ -14,7 +13,6 @@ Notice that Skill Props will help you to beat your enemy.
 
 There is the film about the charactor skill.
 https://youtu.be/QQCXDIlH3zM
-
 
 ## Getting Started
 1.Choose the mode(recommend for single-player)
