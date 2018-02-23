@@ -6,7 +6,7 @@ The Fighters
 My undergraduate study project,developed by Unity2D.
 
 This is the game file.
-(If you are interesting for the code,mail to wsp50317@gmail.com)
+(If you are interesting in the code,mail to wsp50317@gmail.com)
 https://drive.google.com/file/d/1z0dhzRP0aJTf4q8P5jS0GIaqANXMKjIM/view?usp=sharing
 
 The rule is that you should not drop the ball,or you will lose.
