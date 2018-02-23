@@ -45,9 +45,9 @@ Download and unzip the file,and execute .exe
 
 ## Authors
 
-* **Hsi-Hsuan Wu** - *Game design and development* - [wsp50317](https://github.com/wsp50317)
-* **楊玟聆** - *Game development*
-* **林惠文** - *Game development*
-* **黃子瑜** - *Graphic designe*
+* **Hsi-Hsuan Wu** - *Game design and develope* - [wsp50317](https://github.com/wsp50317)
+* **楊玟聆** - *Game develope*
+* **林惠文** - *Game develope*
+* **黃子瑜** - *Graphic design*
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
