@@ -47,5 +47,3 @@ Download and unzip the file,and execute .exe
 * **楊玟聆** - *Game develope*
 * **林惠文** - *Game develope*
 * **黃子瑜** - *Graphic design*
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
