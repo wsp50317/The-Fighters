@@ -32,6 +32,7 @@ Control: Key W(or UpArrow), Key S(or DownArrow)
 4.Result
 ![image](https://github.com/wsp50317/The-Fighters/blob/master/Picture_For_README/p06.png)
 
+(NOTE: You can connect to other computers in Mulit-Play mode,but it works in the local-area network.You need to input the Private IP to connect to the other player who creates a room.The mode is in beta testing.)
 
 ### Installing
 
@@ -47,3 +48,6 @@ Download and unzip the file,and execute .exe
 * **楊玟聆** - *Game develope*
 * **林惠文** - *Game develope*
 * **黃子瑜** - *Graphic design*
+
+## Acknowledgments
+* UNET
